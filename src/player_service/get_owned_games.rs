@@ -31,7 +31,6 @@ pub struct Game {
     pub playtime_forever: u64,
     pub img_icon_url: String,
     pub capsule_filename: Option<String>,
-    pub has_market: bool,
     pub has_dlc: bool
 }
 
